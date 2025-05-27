@@ -1,5 +1,3 @@
-# **`docs/GLIDER-USE-CASES.md` (Starter Sub-Document)**  
-```markdown
 # **Aether Core for Motor Gliders**  
 *Optimizing hybrid-electric propulsion for soaring efficiency.*  
 
