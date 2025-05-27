@@ -40,7 +40,7 @@
 - **Personal Aviation**: Fuel-efficient climb/cruise for 2–8 seat aircraft.  
 - **RC Scale**: Low-RPM stability for DIY builders.  
 
-[**Explore Glider Integration ?**](docs/GLIDER-USE-CASES.md)  
+[**Explore Glider Integration ?**](docs/GLIDER-USE-CASES.MD)  
 
 ---
 
