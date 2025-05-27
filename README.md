@@ -1,12 +1,12 @@
 # **Aether Core Engine**  
 *A next-generation, low-RPM hybrid-electric turbine engine for small aircraft and motor gliders.*  
 
-![Aether Core Logo Concept](assets/logo.png) *[Optional: Add your AI-generated logo here]*  
+![Aether Core Logo Concept](assets/logo.svg) 
 
 ## **?? Key Innovations**  
-- **Hollow Hub Design**: Enables airflow entrainment, weight reduction, and multi-mode venting.  
+- **Hollow Hub Design**: Enables airflow entrainment, multi-mode venting, reduced RPM.  
 - **Hybrid-Electric Operation**: DFIM with **air-core wireless power transfer** for slip-free energy recovery.  
-- **Additive Manufacturing**: Rapidia Tech’s **SLA + freeze-dry sintering** for lightweight, high-strength components.  
+- **Additive Manufacturing**: Rapidia Techâ€™s **SLA + freeze-dry sintering** for lightweight, high-strength components.  
 - **Soaring-Optimized**: Drag-minimized **energy recovery mode** for motor gliders.  
 
 ## **??? Features**  
@@ -15,7 +15,7 @@
 - Compressor isolation eliminates parasitic drag.  
 
 ? **Low-RPM Turbine**  
-- Larger blade diameter reduces bearing stress.  
+- Larger disk diameter compared to conventional engine with same intake area reduces RPM maximum speed for bearings.  
 - Magnetic/pneumatic bearing options.  
 
 ? **Pilot-Centric UX**  
@@ -37,7 +37,7 @@
 
 ## **?? Use Cases**  
 - **Motor Gliders**: Extended cross-country range via thermal harvesting.  
-- **Personal Aviation**: Fuel-efficient climb/cruise for 2–8 seat aircraft.  
+- **Personal Aviation**: Fuel-efficient climb/cruise for 2â€“8 seat aircraft.  
 - **RC Scale**: Low-RPM stability for DIY builders.  
 
 [**Explore Glider Integration ?**](docs/GLIDER-USE-CASES.md)  
